@@ -1,1 +1,1 @@
-# omnidb
+# OmniDB Server
